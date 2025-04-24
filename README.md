@@ -1,5 +1,5 @@
 # 💫 About Me:
-Backend Developer <br>{🚀} I'm Currently learning Javascript/CSS/HTML<br>{🛸} Open for Employment 
+{💻} Backend Developer <br>{🚀} I'm Currently learning Javascript/CSS/HTML<br>{🛸} Open for Employment 
 
 
 ## 🌐 Socials:
