@@ -1,6 +1,5 @@
 # 💫 About Me:
-{💻} Backend Developer <br>{🚀} I'm Currently learning Javascript/CSS/HTML<br>{🛸} Open for Employment 
-
+{💻} Backend Developer <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffrey-sackey/) 
